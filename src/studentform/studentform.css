@@ -1,0 +1,49 @@
+label {
+    margin-right: 20px;
+    font-weight: 600;
+}
+
+.ageinput {
+    margin-left: 15px;
+}
+
+input {
+    width: 60%;
+    padding: 10px 10px;
+    border-radius: 10px;
+    margin-top: 5px;
+    border: 1px solid gray;
+}
+
+button {
+    width: 90%;
+    border-radius: 10px;
+    padding: 8px 8px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: green;
+    font-size: 15px;
+    transition: 0.4s 
+}
+
+table {
+    margin-top: 20px;
+}
+
+thead {
+    font-size: 30px;
+}
+
+th {
+    border: 2px solid black;
+}
+
+td {
+    border: 2px solid black;
+}
+
