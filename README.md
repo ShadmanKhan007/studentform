@@ -24,7 +24,7 @@ Install the required dependencies:
 
 
 
-npm install
+## npm install
 Start the application:
 
 
@@ -34,18 +34,28 @@ Start the application:
 
 
 
-## To Start
-npm run dev
+
+## npm run dev
 Open your web browser and visit http://localhost:5173/ to access the Student Form.
 
 Usage
 Fill out the input fields with your information. The fields are as follows:
 
 Name: Your full name.
+
+
 Age: Your age.
+
+
 Grade Level: Your current grade level.
+
+
 School: Your School name.
+
+
 Once you have filled out all the fields, click the "Submit" button.
+
+
 
 If all the information is filled, a success message will be displayed. Otherwise, error messages will appear at the top of the input filled 
 
