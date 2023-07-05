@@ -21,8 +21,18 @@ cd student-form
 Install the required dependencies:
 
 
+
+
+
 npm install
 Start the application:
+
+
+
+
+
+
+
 
 ## To Start
 npm run dev
