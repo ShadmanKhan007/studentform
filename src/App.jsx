@@ -1,11 +1,10 @@
-import StudentForm from "./studentform/StudentForm";
-import React from 'react'
+import EmojiSearch from "./Emojisearch/Emojisearch";
 import './App.css';
 
 function App() {
      return (
         <div className="App">
-         <StudentForm />
+         <EmojiSearch/>
         </div>
 
      )
